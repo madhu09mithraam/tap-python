@@ -1,0 +1,8 @@
+{
+    "Order ID": "order_id",
+    "Customer ID": "customer_id",
+    "Order Status": "order_status",
+    "Price": "price",
+    "Freight Value": "freight_value",
+    "Purchase Timestamp": "purchase_timestamp"
+}
