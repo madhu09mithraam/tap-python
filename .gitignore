@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Generated pipeline outputs
+cleaned_orders.csv
+cleaned_orders.json
+bad_records.csv
+run_summary.json
+
+# Manifest runtime state
+manifest.json
+
+# Temporary manual test
+test_validator_manual.py
