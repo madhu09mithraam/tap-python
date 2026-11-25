@@ -1,5 +1,5 @@
 paths:
-  orders: "orders.csv"
+  orders: "reviewer_orders.csv"
   clean_csv: "cleaned_orders.csv"
   clean_json: "cleaned_orders.json"
   manifest: "manifest.json"

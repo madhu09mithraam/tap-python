@@ -1,9 +1,6 @@
 #task 8:
-from transformer import (
-    to_snake_case,
-    convert_to_float,
-    calculate_order_totals
-)
+from transformer import calculate_order_totals, convert_to_float, to_snake_case
+
 
 #to test snake_case function:
 def test_to_snake_case():

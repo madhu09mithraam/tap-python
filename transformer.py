@@ -1,6 +1,7 @@
-import re
 import json
+import re
 from pathlib import Path
+
 # Task 4: Convert column names into snake_case
 
 def to_snake_case(column_name: str) -> str:
