@@ -1,0 +1,15 @@
+paths:
+  orders: "reviewer_orders.csv"
+  clean_csv: "cleaned_orders.csv"
+  clean_json: "cleaned_orders.json"
+  manifest: "manifest.json"
+
+thresholds:
+  max_rejected_fraction: 0.20
+
+mappings:
+  order_status: "status"
+
+column_mapping:
+  orders:
+    order_status: status
